@@ -12,4 +12,4 @@ ssh kristi@<ip address> -L 5555:localhost:5555 -p 2222
 ## Resources ##
 [[https://www.apriorit.com/dev-blog/255-android-rooting]]
 [[https://harrisonsand.com/posts/patching-adb-root/]]
-![image](https://user-images.githubusercontent.com/70146213/139724724-fd55d27d-10aa-43bf-b546-72e439504965.png)
+
